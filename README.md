@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CDE4AD&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **stopss/stopss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![stopss's github stats](https://github-readme-stats.vercel.app/api?username=stopss&show_icons=true)
